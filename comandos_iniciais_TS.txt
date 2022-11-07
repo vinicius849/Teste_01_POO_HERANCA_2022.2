@@ -1,0 +1,7 @@
+Verificar permissões de script
+Criar uma pasta para o projeto
+Entra na pasta e usa comando tsc --init
+Cria um arquivo typescript
+Cria uma pasta para os javascript
+Compila com o comando tsc arquivo.ts --outDir ./pasta
+Roda o código com node ./pasta/arquivo.js
